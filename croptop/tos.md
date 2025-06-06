@@ -1,5 +1,3 @@
----
----
 # Terms of Service
 
 **Effective Date:** June 6, 2025

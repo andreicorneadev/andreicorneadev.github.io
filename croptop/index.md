@@ -1,5 +1,3 @@
----
----
 # CropTop Discord Bot
 
 Welcome to the official page for **CropTop**.
