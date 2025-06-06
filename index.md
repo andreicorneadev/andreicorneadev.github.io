@@ -1,3 +1,7 @@
+---
+title: Welcome
+---
+
 # Welcome
 
 This GitHub Pages site serves as a hub for my public projects and documentation.
