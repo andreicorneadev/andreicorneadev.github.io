@@ -2,7 +2,7 @@
 
 **Effective Date:** June 6, 2025
 
-Welcome to CropTop, a Discord bot designed to [brief description of purpose, e.g., manage communities, provide entertainment, etc.]. By using CropTop (the “Bot”), you agree to these Terms of Service (“Terms”).
+Welcome to CropTop, a Discord bot designed to stream music. By using CropTop (the “Bot”), you agree to these Terms of Service (“Terms”).
 
 ## 1. Acceptance of Terms
 
